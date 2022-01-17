@@ -1,0 +1,12 @@
+{
+  "name": "k1sul1/reusable-blocks-extended",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "k1sul1",
+      "email": "me@kisu.li"
+    }
+  ],
+  "require": {}
+}
